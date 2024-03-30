@@ -1,6 +1,13 @@
-# anatomy_coreflutter
+# Anatomy CoreFlutter
 
 A new Flutter project.
+
+<p>
+<img src = "https://github.com/DurgaMewada/anatomy_coreflutter/assets/149373536/1d1212a3-fc90-4a94-ac93-554d31ffaeb0" width=22%, height=35%>
+<img src = "https://github.com/DurgaMewada/anatomy_coreflutter/assets/149373536/7c4f6717-a4ec-47c3-8f60-3ac4f5b1c9de" width=22%, height=35%>
+<img src = "https://github.com/DurgaMewada/anatomy_coreflutter/assets/149373536/12e912f1-b26c-4285-a798-d556be1ffed1" width=22%, height=35%>
+<img src = "https://github.com/DurgaMewada/anatomy_coreflutter/assets/149373536/07f0460d-a97d-4f85-9db3-dca82e225dda" width=22%, height=35%>
+</p>
 
 ## Getting Started
 
